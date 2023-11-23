@@ -1,4 +1,4 @@
-<h2 align="center"> Hey! 👋 </h2>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hey%2C+I%27m+Ben+%F0%9F%98%8E')
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=btschwartz12.btschwartz12)
 
@@ -17,8 +17,25 @@
 <!--END_SECTION:activity-->
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=This+is+Ben+%3A%29)
 
 
-[**octo ring**](https://octo-ring.com/)
-[[prev](https://octo-ring.com/p/btschwartz12/prev)]  [[random](https://octo-ring.com/p/btschwartz12/random)]  [[next](https://octo-ring.com/p/btschwartz12/next)]
+![Ben's github stats](https://github-readme-stats.vercel.app/api?username=btschwartz12&show_icons=true&theme=dark&hide=stars,issues,prs,contribs&hide_rank=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=btschwartz12&layout=compact&theme=dark)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
+
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=btschwartz12)
+
+
+<a >
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=btschwartz12&show_icons=true&theme=dark&hide=stars,issues,prs,contribs&hide_rank=true" />
+</a>
+<a >
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=btschwartz12&layout=compact&theme=dark" />
+</a>
+
+
