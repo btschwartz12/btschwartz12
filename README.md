@@ -8,3 +8,8 @@
 <!--END_SECTION:waka-->
 </td></tr>
 </table>
+
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->

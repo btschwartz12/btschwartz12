@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  update-readme:
+  waka:
     name: Profile Readme Development Stats
     runs-on: ubuntu-latest
     steps:
@@ -27,3 +27,15 @@ jobs:
           SHOW_LANGUAGE_PER_REPO : False
           SHOW_SHORT_INFO : False
           SHOW_LOC_CHART : False
+
+  activity:
+    name: Update this repo's README with recent activity
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v3
+      - uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
