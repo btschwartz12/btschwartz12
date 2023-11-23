@@ -1,5 +1,7 @@
 <h2 align="center"> Hey! 👋 </h2>
 
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=rafnixg.rafnixg)
+
 <table>
     
 <!--START_SECTION:waka-->
