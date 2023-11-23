@@ -1,7 +1,30 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hey%2C+I%27m+Ben+%F0%9F%98%8E')
+![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hey%2C+I%27m+Ben+%F0%9F%98%8E)
+
+My name is Ben Schwartz, an undergrad at the University of Michigan studying Computer Science. 
+I'm also an SDE Intern at [Hyland](https://www.hyland.com/en) and a teaching assistant for a [cybersecurity course](https://eecs388.org) at UMich. I'm planning to finish undergrad this winter and continue pursuing a masters in Computer Science, hoping to graduate in December 2024!
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=btschwartz12.btschwartz12)
+[![wakatime](https://wakatime.com/badge/user/018bfa9f-1ed0-41c1-91e0-e193f71a83b5.svg)](https://wakatime.com/@018bfa9f-1ed0-41c1-91e0-e193f71a83b5)
 
+<h2>1. Check out my <a href="https://btschwartz.com/portfolio">portfolio</a> 😐</h2>
+
+You may or may not regret it.
+
+<h2>2. Definitely Don't do This 😳</h2>
+
+```bash
+$ ssh chuck@193.42.60.203 # password is 'jimmy'
+```
+
+<h2>3. What I've Been Up To 👺</h2>
+<a >
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=btschwartz12&show_icons=true&theme=dark&hide=stars,issues,prs&rank_icon=github" />
+</a>
+<a >
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=btschwartz12&layout=compact&theme=dark" />
+</a>
+
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=btschwartz12&theme=github-dark-dimmed&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <table>
     
 <!--START_SECTION:waka-->
@@ -12,30 +35,79 @@
 </table>
 
 
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
 
 
 
 
-![Ben's github stats](https://github-readme-stats.vercel.app/api?username=btschwartz12&show_icons=true&theme=dark&hide=stars,issues,prs,contribs&hide_rank=true)
+<h2>4. Some Stuff I Work With 🚀</h2>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="25" height="25" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="25" height="25" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="25" height="25" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET" width="25" height="25" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="25" height="25" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="25" height="25" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="25" height="25" />
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws" width="25" height="25" />
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="25" height="25" />
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="25" height="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="c/c++" width="25" height="25" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="c#" width="25" height="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="25" height="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML" width="25" height="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="25" height="25" />
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="25" height="25" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="25" height="25" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="25" height="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="25" height="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" alt="Bitbucket" width="25" height="25" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="25" height="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="25" height="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" alt="macOS" width="25" height="25" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=btschwartz12&layout=compact&theme=dark)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
-
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=btschwartz12)
-
-
-<a >
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=btschwartz12&show_icons=true&theme=dark&hide=stars,issues,prs,contribs&hide_rank=true" />
+<h2>5. Projects I've Worked On 📝</h2>
+<a href="https://github.com/btschwartz12/bliss-portfolio">
+  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=btschwartz12&repo=bliss-portfolio&theme=dark" />
 </a>
-<a >
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=btschwartz12&layout=compact&theme=dark" />
+<a href="https://github.com/btschwartz12/landing-page">
+  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=btschwartz12&repo=landing-page&theme=dark" />
+</a>
+<a href="https://github.com/btschwartz12/chat-with-saul">
+  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=btschwartz12&repo=chat-with-saul&theme=dark" />
+</a>
+<a href="https://github.com/btschwartz12/health-monitor">
+  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=btschwartz12&repo=health-monitor&theme=dark" />
+</a>
+<a href="https://github.com/btschwartz12/bliss-pics">
+  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=btschwartz12&repo=bliss-pics&theme=dark" />
+</a>
+<a href="https://github.com/btschwartz12/Minesweeper">
+  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=btschwartz12&repo=Minesweeper&theme=dark" />
+</a>
+<a href="https://github.com/btschwartz12/waltuh-game">
+  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=btschwartz12&repo=waltuh-game&theme=dark" />
+</a>
+<a href="https://github.com/btschwartz12/WingmanGPT">
+  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=btschwartz12&repo=WingmanGPT&theme=dark" />
+</a>
+<a href="https://github.com/btschwartz12/TruSourceReportBuilder">
+  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=btschwartz12&repo=TruSourceReportBuilder&theme=dark" />
+</a>
+<a href="https://github.com/btschwartz12/LetsEat">
+  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=btschwartz12&repo=LetsEat&theme=dark" />
+</a>
+<a href="https://gist.github.com/btschwartz12/b2340248617571d93ab69d91566b8bc7/">
+  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/gist?id=b2340248617571d93ab69d91566b8bc7&theme=dark" />
 </a>
 
 
+<h2>6. Random Stuff</h2>
+
+pgp fingerprint: 9950 1BFE 9A66 8C95 597D C66C 8024 D69D 8C93 906D
