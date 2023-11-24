@@ -9,7 +9,6 @@
     
 </div>
 
-![](./profile-3d-contrib/profile-green-animate.svg)
 
 
 My name is Ben Schwartz, an undergrad at the University of Michigan studying Computer Science. 
@@ -44,11 +43,11 @@ $ ssh chuck@193.42.60.203 # password is 'jimmy'
 <img src="https://streak-stats.demolab.com/?user=btschwartz12&theme=github-dark&border=61dafb" alt="btschwartz12" style="margin: 0 auto; display: block;" />
 
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/btschwartz12/btschwartz12/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/btschwartz12/btschwartz12/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/btschwartz12/btschwartz12/output/github-contribution-grid-snake.svg">
-</picture>
+</picture> -->
 
 
 
@@ -141,6 +140,10 @@ $ ssh chuck@193.42.60.203 # password is 'jimmy'
   </a> -->
 
   <!-- [![wakatime](https://wakatime.com/badge/user/018bfa9f-1ed0-41c1-91e0-e193f71a83b5.svg)](https://wakatime.com/@018bfa9f-1ed0-41c1-91e0-e193f71a83b5) -->
+
+
+
+<!-- ![](./profile-3d-contrib/profile-green-animate.svg) -->
 
 
 
