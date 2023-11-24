@@ -2,8 +2,7 @@
 
 <div align="center">
 
-   <!-- <h1>Hey! <img src="dist/saul.gif" width="8%" height="auto" style="margin-left:5px; margin-bottom:-10px" />   </h1> -->
-   <h1>Hey! 😐  </h1>
+   <h1>Hey! <img src="dist/saul.gif" width="8%" height="auto" style="margin-left:5px; margin-bottom:-10px" />   </h1>
    
 
 
@@ -27,7 +26,7 @@ I'm also an SDE Intern at [Hyland](https://www.hyland.com/en) and a teaching ass
 </picture>
 
 
-<h2>🤨 Check Out My <a href="https://btschwartz.com/portfolio">Portfolio</a></h2>
+<h2>😐 Check Out My <a href="https://btschwartz.com/portfolio">Portfolio</a></h2>
 
 
 
@@ -41,12 +40,8 @@ $ ssh chuck@193.42.60.203 # password is 'jimmy'
 
 <h2>👺 What I've Been Up To</h2>
 
-
-<div style="text-align: center;">
-  <a>
-    <img src="https://streak-stats.demolab.com/?user=btschwartz12&theme=github-dark&border=61dafb" alt="btschwartz12" style="margin: 0 auto; display: block;" />
-  </a>
-</div>
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=btschwartz12&theme=github-dark&border=61dafb" alt="btschwartz12" style="margin: 0 auto; display: block;" />
 
 </br>
 
@@ -140,3 +135,8 @@ $ ssh chuck@193.42.60.203 # password is 'jimmy'
   </a> -->
 
   <!-- [![wakatime](https://wakatime.com/badge/user/018bfa9f-1ed0-41c1-91e0-e193f71a83b5.svg)](https://wakatime.com/@018bfa9f-1ed0-41c1-91e0-e193f71a83b5) -->
+
+
+
+
+  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
