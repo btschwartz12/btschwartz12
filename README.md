@@ -2,7 +2,7 @@
 
 <div align="center">
 
-   <h1><img src="saul.gif" width="6%" height="auto" style="margin-right:10px; margin-bottom:-5px" />Hey! <img src="saul.gif" width="6%" height="auto" style="margin-left:5px; margin-bottom:-5px" />   </h1>
+   <h1>Hey! <img src="saul.gif" width="6%" height="auto" style="margin-left:5px; margin-bottom:-5px" />   </h1>
    
 
 
