@@ -1,8 +1,15 @@
+
+
 <div align="center">
-   <h1>Hey! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h1>
+
+   <h1><img src="saul.gif" width="6%" height="auto" style="margin-right:10px; margin-bottom:-5px" />Hey! <img src="saul.gif" width="6%" height="auto" style="margin-left:5px; margin-bottom:-5px" />   </h1>
    
 
+
+    
 </div>
+
+
 
 My name is Ben Schwartz, an undergrad at the University of Michigan studying Computer Science. 
 I'm also an SDE Intern at [Hyland](https://www.hyland.com/en) and a teaching assistant for a [cybersecurity course](https://eecs388.org) at UMich. I'm planning to finish undergrad this winter and continue pursuing a masters in Computer Science, hoping to graduate in December 2024!
@@ -96,6 +103,7 @@ $ ssh chuck@193.42.60.203 # password is 'jimmy'
   <a align="left" href="https://github.com/btschwartz12/chat-with-saul" title="chat-with-saul"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=btschwartz12&repo=chat-with-saul&theme=highcontrast&border_color=61dafb&border_radius=10"></a>
   <a align="right" href="https://github.com/btschwartz12/health-monitor" title="health-monitor"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=btschwartz12&repo=health-monitor&theme=great-gatsby&border_color=61dafb&border_radius=10"></a>
 </div>
+
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/btschwartz12/bliss-pics" title="bliss-pics"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=btschwartz12&repo=bliss-pics&theme=chartreuse-dark&border_color=61dafb&border_radius=10"></a>
