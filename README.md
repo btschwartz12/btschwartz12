@@ -126,6 +126,7 @@ $ ssh chuck@193.42.60.203 # password is 'jimmy'
   <a align="left" href="https://github.com/btschwartz12/TruSourceReportBuilder" title="TruSourceReportBuilder"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=btschwartz12&repo=TruSourceReportBuilder&theme=aura&border_color=61dafb&border_radius=10"></a>
   <a align="right" href="https://github.com/btschwartz12/LetsEat" title="LetsEat"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=btschwartz12&repo=LetsEat&theme=neon&border_color=61dafb&border_radius=10"></a>
 </div>
+<br/><br/><br/><br/><br/><br/>
 
 <!-- <a href="https://gist.github.com/btschwartz12/b2340248617571d93ab69d91566b8bc7/">
   <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/gist?id=b2340248617571d93ab69d91566b8bc7&theme=dark" />
@@ -139,5 +140,5 @@ $ ssh chuck@193.42.60.203 # password is 'jimmy'
   <!-- [![wakatime](https://wakatime.com/badge/user/018bfa9f-1ed0-41c1-91e0-e193f71a83b5.svg)](https://wakatime.com/@018bfa9f-1ed0-41c1-91e0-e193f71a83b5) -->
 
 
-<br/><br/><br/><br/>
-  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%" style="margin-top: 10px; margin-bottom: 10px" />
+
+  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%"/>
