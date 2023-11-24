@@ -1,30 +1,43 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hey%2C+I%27m+Ben+%F0%9F%98%8E)
+<div align="center">
+   <h1>Hey! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h1>
+   
+
+</div>
 
 My name is Ben Schwartz, an undergrad at the University of Michigan studying Computer Science. 
 I'm also an SDE Intern at [Hyland](https://www.hyland.com/en) and a teaching assistant for a [cybersecurity course](https://eecs388.org) at UMich. I'm planning to finish undergrad this winter and continue pursuing a masters in Computer Science, hoping to graduate in December 2024!
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=btschwartz12.btschwartz12)
-[![wakatime](https://wakatime.com/badge/user/018bfa9f-1ed0-41c1-91e0-e193f71a83b5.svg)](https://wakatime.com/@018bfa9f-1ed0-41c1-91e0-e193f71a83b5)
+[![PGP thumbprint](https://img.shields.io/badge/PGP-%23228B22?style=flat)](https://keys.openpgp.org/search?q=btschwartz12%40gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-purple?style=flat)](https://btschwartz.com/portfolio)
+<!-- [![wakatime](https://wakatime.com/badge/user/018bfa9f-1ed0-41c1-91e0-e193f71a83b5.svg)](https://wakatime.com/@018bfa9f-1ed0-41c1-91e0-e193f71a83b5) -->
 
-<h2>1. Check out my <a href="https://btschwartz.com/portfolio">portfolio</a> 😐</h2>
+<h2>😐 Check Out My <a href="https://btschwartz.com/portfolio">Portfolio</a></h2>
+
+
 
 You may or may not regret it.
 
-<h2>2. Definitely Don't do This 😳</h2>
+<h2>😳 Definitely Don't Do This</h2>
 
 ```bash
 $ ssh chuck@193.42.60.203 # password is 'jimmy'
 ```
 
-<h2>3. What I've Been Up To 👺</h2>
-<a >
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=btschwartz12&show_icons=true&theme=dark&hide=stars,issues,prs&rank_icon=github" />
-</a>
-<a >
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=btschwartz12&layout=compact&theme=dark" />
-</a>
+<h2>👺 What I've Been Up To</h2>
+<div style="display: flex; align-items: center;">
+  <a style="flex: 1;">
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=btschwartz12&show_icons=true&theme=dark&hide=stars,issues,prs&rank_icon=github" />
+  </a>
+  <!-- <a style="flex: 1;">
+    <img height="100" src="https://github-readme-stats.vercel.app/api/top-langs/?username=btschwartz12&layout=compact&theme=dark" />
+  </a> -->
+</div>
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=btschwartz12&theme=github-dark-dimmed&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=btschwartz12&theme=github-dark-dimmed&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+
+
+
 <table>
     
 <!--START_SECTION:waka-->
@@ -39,7 +52,7 @@ $ ssh chuck@193.42.60.203 # password is 'jimmy'
 
 
 
-<h2>4. Some Stuff I Work With 🚀</h2>
+<h2>🚀 Stuff I Work With</h2>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="25" height="25" />
@@ -72,7 +85,7 @@ $ ssh chuck@193.42.60.203 # password is 'jimmy'
 
 
 
-<h2>5. Projects I've Worked On 📝</h2>
+<h2>📝 Stuff I've Worked On</h2>
 <a href="https://github.com/btschwartz12/bliss-portfolio">
   <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=btschwartz12&repo=bliss-portfolio&theme=dark" />
 </a>
@@ -107,7 +120,3 @@ $ ssh chuck@193.42.60.203 # password is 'jimmy'
   <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/gist?id=b2340248617571d93ab69d91566b8bc7&theme=dark" />
 </a>
 
-
-<h2>6. Random Stuff</h2>
-
-pgp fingerprint: 9950 1BFE 9A66 8C95 597D C66C 8024 D69D 8C93 906D
