@@ -55,8 +55,24 @@ $ ssh chuck@193.42.60.203 # password is 'jimmy'
 <table>
     
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2059%20mins-blue)
 
+![Profile Views](http://img.shields.io/badge/Profile%20Views-182-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-529.6%20thousand%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 1,406 Contributions in the Year 2023
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 32 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -74,7 +90,7 @@ Mac                      4 hrs 6 mins        ███████████�
 ```
 
 
- Last Updated on 24/11/2023 05:28:22 UTC
+ Last Updated on 24/11/2023 05:57:19 UTC
 <!--END_SECTION:waka-->
 </td></tr>
 </table>
