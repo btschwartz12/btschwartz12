@@ -2,7 +2,7 @@
 
 <div align="center">
 
-   <h1><img src="dist/saul.gif" width="8%" height="auto" style="margin-left:5px; margin-bottom:-10px" />   </h1>
+   <h1><img src="dist/saul.gif" width="13%" height="auto" style="margin-left:5px; margin-bottom:-10px" />   </h1>
    
 
 
