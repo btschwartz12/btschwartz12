@@ -32,14 +32,14 @@ I'm also an SDE Intern at [Hyland](https://www.hyland.com/en) and a teaching ass
 
 You may or may not regret it.
 
-<br/><br/>
+<br/>
 <h2>😳 Definitely Don't Do This</h2>
 
 ```bash
 $ ssh chuck@193.42.60.203 # password is 'jimmy'
 ```
 
-<br/><br/>
+<br/>
 <h2>👺 What I've Been Up To</h2>
 
 <p align="center">
@@ -64,7 +64,7 @@ $ ssh chuck@193.42.60.203 # password is 'jimmy'
 
 
 
-<br/><br/>
+<br/>
 <h2>🚀 Stuff I Work With</h2>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
@@ -98,7 +98,7 @@ $ ssh chuck@193.42.60.203 # password is 'jimmy'
 
 
 
-<br/><br/>
+<br/>
 <h2>📝 Stuff I've Worked On</h2>
 
 <div width="100%" align="center">
@@ -140,4 +140,4 @@ $ ssh chuck@193.42.60.203 # password is 'jimmy'
 
 
 <br/><br/><br/><br/>
-  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
+  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%" style="margin-top: 10px; margin-bottom: 10px" />
