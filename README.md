@@ -11,7 +11,7 @@
 
 
 
-My name is Ben Schwartz, an undergrad at the University of Michigan studying Computer Science. 
+My name is **Ben Schwartz**, an undergrad at the University of Michigan studying Computer Science. 
 I'm also an SDE Intern at [Hyland](https://www.hyland.com/en) and a teaching assistant for a [cybersecurity course](https://eecs388.org) at UMich. I'm planning to finish undergrad this winter and continue pursuing a masters in Computer Science, hoping to graduate in December 2024!
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=btschwartz12.btschwartz12)
