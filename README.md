@@ -2,7 +2,8 @@
 
 <div align="center">
 
-   <h1>Hey! <img src="dist/saul.gif" width="8%" height="auto" style="margin-left:5px; margin-bottom:-10px" />   </h1>
+   <!-- <h1>Hey! <img src="dist/saul.gif" width="8%" height="auto" style="margin-left:5px; margin-bottom:-10px" />   </h1> -->
+   <h1>Hey! 😐  </h1>
    
 
 
@@ -26,7 +27,7 @@ I'm also an SDE Intern at [Hyland](https://www.hyland.com/en) and a teaching ass
 </picture>
 
 
-<h2>😐 Check Out My <a href="https://btschwartz.com/portfolio">Portfolio</a></h2>
+<h2>🤨 Check Out My <a href="https://btschwartz.com/portfolio">Portfolio</a></h2>
 
 
 
