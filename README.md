@@ -19,11 +19,7 @@ I'm also an SDE Intern at [Hyland](https://www.hyland.com/en) and a teaching ass
 [![PGP thumbprint](https://img.shields.io/badge/PGP-%23228B22?style=flat)](https://keys.openpgp.org/search?q=btschwartz12%40gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-purple?style=flat)](https://btschwartz.com/portfolio)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/btschwartz12/btschwartz12/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/btschwartz12/btschwartz12/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/btschwartz12/btschwartz12/output/github-contribution-grid-snake.svg">
-</picture>
+
 
 
 <h2>😐 Check Out My <a href="https://btschwartz.com/portfolio">Portfolio</a></h2>
@@ -42,10 +38,18 @@ $ ssh chuck@193.42.60.203 # password is 'jimmy'
 <br/>
 <h2>👺 What I've Been Up To</h2>
 
+<br>
+
 <p align="center">
 <img src="https://streak-stats.demolab.com/?user=btschwartz12&theme=github-dark&border=61dafb" alt="btschwartz12" style="margin: 0 auto; display: block;" />
 
-</br>
+<br/><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/btschwartz12/btschwartz12/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/btschwartz12/btschwartz12/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/btschwartz12/btschwartz12/output/github-contribution-grid-snake.svg">
+</picture>
 
 
 
