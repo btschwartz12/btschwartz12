@@ -10,7 +10,7 @@ I'm also an SDE Intern at [Hyland](https://www.hyland.com/en) and a teaching ass
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=btschwartz12.btschwartz12)
 [![PGP thumbprint](https://img.shields.io/badge/PGP-%23228B22?style=flat)](https://keys.openpgp.org/search?q=btschwartz12%40gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-purple?style=flat)](https://btschwartz.com/portfolio)
-<!-- [![wakatime](https://wakatime.com/badge/user/018bfa9f-1ed0-41c1-91e0-e193f71a83b5.svg)](https://wakatime.com/@018bfa9f-1ed0-41c1-91e0-e193f71a83b5) -->
+
 
 <h2>😐 Check Out My <a href="https://btschwartz.com/portfolio">Portfolio</a></h2>
 
@@ -25,16 +25,16 @@ $ ssh chuck@193.42.60.203 # password is 'jimmy'
 ```
 
 <h2>👺 What I've Been Up To</h2>
-<div style="display: flex; align-items: center;">
-  <a style="flex: 1;">
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=btschwartz12&show_icons=true&theme=dark&hide=stars,issues,prs&rank_icon=github" />
+
+
+<div style="text-align: center;">
+  <a>
+    <img src="https://streak-stats.demolab.com/?user=btschwartz12&theme=github-dark&border=61dafb" alt="btschwartz12" style="margin: 0 auto; display: block;" />
   </a>
-  <!-- <a style="flex: 1;">
-    <img height="100" src="https://github-readme-stats.vercel.app/api/top-langs/?username=btschwartz12&layout=compact&theme=dark" />
-  </a> -->
 </div>
 
-<!-- [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=btschwartz12&theme=github-dark-dimmed&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+</br>
+
 
 
 
@@ -42,7 +42,6 @@ $ ssh chuck@193.42.60.203 # password is 'jimmy'
     
 <!--START_SECTION:waka-->
 
- Last Updated on 23/11/2023 05:32:54 UTC
 <!--END_SECTION:waka-->
 </td></tr>
 </table>
@@ -85,38 +84,41 @@ $ ssh chuck@193.42.60.203 # password is 'jimmy'
 
 
 
-<h2>📝 Stuff I've Worked On</h2>
-<a href="https://github.com/btschwartz12/bliss-portfolio">
-  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=btschwartz12&repo=bliss-portfolio&theme=dark" />
-</a>
-<a href="https://github.com/btschwartz12/landing-page">
-  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=btschwartz12&repo=landing-page&theme=dark" />
-</a>
-<a href="https://github.com/btschwartz12/chat-with-saul">
-  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=btschwartz12&repo=chat-with-saul&theme=dark" />
-</a>
-<a href="https://github.com/btschwartz12/health-monitor">
-  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=btschwartz12&repo=health-monitor&theme=dark" />
-</a>
-<a href="https://github.com/btschwartz12/bliss-pics">
-  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=btschwartz12&repo=bliss-pics&theme=dark" />
-</a>
-<a href="https://github.com/btschwartz12/Minesweeper">
-  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=btschwartz12&repo=Minesweeper&theme=dark" />
-</a>
-<a href="https://github.com/btschwartz12/waltuh-game">
-  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=btschwartz12&repo=waltuh-game&theme=dark" />
-</a>
-<a href="https://github.com/btschwartz12/WingmanGPT">
-  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=btschwartz12&repo=WingmanGPT&theme=dark" />
-</a>
-<a href="https://github.com/btschwartz12/TruSourceReportBuilder">
-  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=btschwartz12&repo=TruSourceReportBuilder&theme=dark" />
-</a>
-<a href="https://github.com/btschwartz12/LetsEat">
-  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=btschwartz12&repo=LetsEat&theme=dark" />
-</a>
-<a href="https://gist.github.com/btschwartz12/b2340248617571d93ab69d91566b8bc7/">
-  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/gist?id=b2340248617571d93ab69d91566b8bc7&theme=dark" />
-</a>
 
+<h2>📝 Stuff I've Worked On</h2>
+
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/btschwartz12/bliss-portfolio" title="bliss-portfolio"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=btschwartz12&repo=bliss-portfolio&theme=date_night&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/btschwartz12/landing-page" title="landing-page"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=btschwartz12&repo=landing-page&theme=dracula&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/btschwartz12/chat-with-saul" title="chat-with-saul"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=btschwartz12&repo=chat-with-saul&theme=highcontrast&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/btschwartz12/health-monitor" title="health-monitor"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=btschwartz12&repo=health-monitor&theme=great-gatsby&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/btschwartz12/bliss-pics" title="bliss-pics"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=btschwartz12&repo=bliss-pics&theme=chartreuse-dark&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/btschwartz12/Minesweeper" title="Minesweeper"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=btschwartz12&repo=Minesweeper&theme=gotham&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/btschwartz12/waltuh-game" title="waltuh-game"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=btschwartz12&repo=waltuh-game&theme=blue_navy&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/btschwartz12/WingmanGPT" title="WingmanGPT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=btschwartz12&repo=WingmanGPT&theme=github_dark&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/btschwartz12/TruSourceReportBuilder" title="TruSourceReportBuilder"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=btschwartz12&repo=TruSourceReportBuilder&theme=aura&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/btschwartz12/LetsEat" title="LetsEat"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=btschwartz12&repo=LetsEat&theme=neon&border_color=61dafb&border_radius=10"></a>
+</div>
+
+<!-- <a href="https://gist.github.com/btschwartz12/b2340248617571d93ab69d91566b8bc7/">
+  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/gist?id=b2340248617571d93ab69d91566b8bc7&theme=dark" />
+</a> -->
+
+<!-- [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=btschwartz12&theme=github-dark-dimmed&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+<!-- <a style="flex: 1;">
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=btschwartz12&show_icons=true&theme=dark&hide=stars,issues,prs&rank_icon=github" />
+  </a> -->
+
+  <!-- [![wakatime](https://wakatime.com/badge/user/018bfa9f-1ed0-41c1-91e0-e193f71a83b5.svg)](https://wakatime.com/@018bfa9f-1ed0-41c1-91e0-e193f71a83b5) -->
