@@ -27,14 +27,12 @@ I'm also an SDE Intern at [Hyland](https://www.hyland.com/en) and a teaching ass
 
 You may or may not regret it.
 
-<br/>
 <h2>😳 Definitely Don't Do This</h2>
 
 ```bash
 $ ssh chuck@193.42.60.203 # password is 'jimmy'
 ```
 
-<br/>
 <h2>👺 What I've Been Up To</h2>
 
 <br>
@@ -85,7 +83,6 @@ Mac                      4 hrs 6 mins        ███████████�
 
 
 
-<br/>
 <h2>🚀 Stuff I Work With</h2>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
@@ -119,7 +116,6 @@ Mac                      4 hrs 6 mins        ███████████�
 
 
 
-<br/>
 <h2>📝 Stuff I've Worked On</h2>
 
 <div width="100%" align="center">
