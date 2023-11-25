@@ -116,7 +116,7 @@ Mac                      4 hrs 6 mins        ███████████�
 
 
 <h2>📝 Stuff I've Worked On</h2>
-<table>
+<table style="border-collapse: collapse; border: none;">
   <tr>
     <td>
       <a href="https://github.com/btschwartz12/bliss-portfolio">
