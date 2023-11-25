@@ -1,18 +1,18 @@
 
 
-<div align="center">
+
+
+<!-- <div align="center">
 
    <h1><img src="dist/saul.gif" width="13%" height="auto" style="margin-left:5px; margin-bottom:-10px" />   </h1>
-   
-
-
-    
 </div>
+-->
 
 
+Hey! My name is **Ben Schwartz**, an undergrad at the University of Michigan studying Computer Science.
 
-Hey! My name is **Ben Schwartz**, an undergrad at the University of Michigan studying Computer Science. 
-I'm also an SDE Intern at [Hyland](https://www.hyland.com/en) and a teaching assistant for a [cybersecurity course](https://eecs388.org) at UMich. I'm planning to finish undergrad this winter and continue pursuing a masters in Computer Science, hoping to graduate in December 2024!
+I'm also an SDE Intern at [Hyland](https://www.hyland.com/en) and a teaching assistant for a [cybersecurity course](https://eecs388.org). I plan to finish undergrad this winter and continue pursuing a masters in Computer Science, hoping to graduate in December 2024!
+
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=btschwartz12.btschwartz12)
 [![PGP thumbprint](https://img.shields.io/badge/PGP-%23228B22?style=flat)](https://keys.openpgp.org/search?q=btschwartz12%40gmail.com)
