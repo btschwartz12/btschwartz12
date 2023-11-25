@@ -49,9 +49,6 @@ $ ssh chuck@193.42.60.203 # password is 'jimmy'
 
 
 
-
-
-
 <table>
     
 <!--START_SECTION:waka-->
@@ -119,33 +116,69 @@ Mac                      4 hrs 6 mins        ███████████�
 
 
 <h2>📝 Stuff I've Worked On</h2>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/btschwartz12/bliss-portfolio">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=btschwartz12&repo=bliss-portfolio&theme=date_night&border_color=61dafb&border_radius=10" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/btschwartz12/landing-page">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=btschwartz12&repo=landing-page&theme=dracula&border_color=61dafb&border_radius=10" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/btschwartz12/chat-with-saul">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=btschwartz12&repo=chat-with-saul&theme=highcontrast&border_color=61dafb&border_radius=10" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/btschwartz12/health-monitor">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=btschwartz12&repo=health-monitor&theme=great-gatsby&border_color=61dafb&border_radius=10" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/btschwartz12/bliss-pics">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=btschwartz12&repo=bliss-pics&theme=chartreuse-dark&border_color=61dafb&border_radius=10" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/btschwartz12/Minesweeper">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=btschwartz12&repo=Minesweeper&theme=gotham&border_color=61dafb&border_radius=10" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/btschwartz12/waltuh-game">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=btschwartz12&repo=waltuh-game&theme=blue_navy&border_color=61dafb&border_radius=10" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/btschwartz12/WingmanGPT">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=btschwartz12&repo=WingmanGPT&theme=github_dark&border_color=61dafb&border_radius=10" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/btschwartz12/TruSourceReportBuilder">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=btschwartz12&repo=TruSourceReportBuilder&theme=aura&border_color=61dafb&border_radius=10" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/btschwartz12/LetsEat">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=btschwartz12&repo=LetsEat&theme=neon&border_color=61dafb&border_radius=10" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/btschwartz12/bliss-portfolio" title="bliss-portfolio"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=btschwartz12&repo=bliss-portfolio&theme=date_night&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/btschwartz12/landing-page" title="landing-page"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=btschwartz12&repo=landing-page&theme=dracula&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/btschwartz12/chat-with-saul" title="chat-with-saul"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=btschwartz12&repo=chat-with-saul&theme=highcontrast&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/btschwartz12/health-monitor" title="health-monitor"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=btschwartz12&repo=health-monitor&theme=great-gatsby&border_color=61dafb&border_radius=10"></a>
-</div>
-
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/btschwartz12/bliss-pics" title="bliss-pics"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=btschwartz12&repo=bliss-pics&theme=chartreuse-dark&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/btschwartz12/Minesweeper" title="Minesweeper"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=btschwartz12&repo=Minesweeper&theme=gotham&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/btschwartz12/waltuh-game" title="waltuh-game"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=btschwartz12&repo=waltuh-game&theme=blue_navy&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/btschwartz12/WingmanGPT" title="WingmanGPT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=btschwartz12&repo=WingmanGPT&theme=github_dark&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/btschwartz12/TruSourceReportBuilder" title="TruSourceReportBuilder"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=btschwartz12&repo=TruSourceReportBuilder&theme=aura&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/btschwartz12/LetsEat" title="LetsEat"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=btschwartz12&repo=LetsEat&theme=neon&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
 
 <!-- <a href="https://gist.github.com/btschwartz12/b2340248617571d93ab69d91566b8bc7/">
   <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/gist?id=b2340248617571d93ab69d91566b8bc7&theme=dark" />
