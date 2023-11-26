@@ -124,22 +124,6 @@ Linux                    14 mins             █░░░░░░░░░░�
 
 <h2>📝 Stuff I've Worked On</h2>
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/btschwartz12/bliss-portfolio">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=btschwartz12&repo=bliss-portfolio&theme=date_night&border_color=61dafb&border_radius=10" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/btschwartz12/landing-page">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=btschwartz12&repo=landing-page&theme=dracula&border_color=61dafb&border_radius=10" />
-      </a>
-    </td>
-  </tr>
-  <!-- Repeat rows for other projects -->
-</table>
-
 <div width="100%" align="center">
   <a align="left" href="https://github.com/btschwartz12/bliss-portfolio" title="bliss-portfolio"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=btschwartz12&repo=bliss-portfolio&theme=date_night&border_color=61dafb&border_radius=10"></a>
   <a align="right" href="https://github.com/btschwartz12/landing-page" title="landing-page"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=btschwartz12&repo=landing-page&theme=dracula&border_color=61dafb&border_radius=10"></a>
