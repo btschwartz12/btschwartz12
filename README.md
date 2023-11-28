@@ -82,7 +82,7 @@ Linux                    40 mins             █░░░░░░░░░░�
 
  Last Updated on 27/11/2023 20:20:54 UTC
 <!--END_SECTION:waka-->
-Note: I started tracking my activity with Waka on 20/11/2023! 
+Note: I started tracking my activity with Waka on 20/11/2023 
 </td></tr>
 </table>
 
