@@ -55,12 +55,32 @@ $ ssh chuck@193.42.60.203 # password = 'jimmy'
 <table>
     
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-86%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-90%20hrs%2032%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-529.9%20thousand%20lines%20of%20code-blue)
 
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 06/12/2023 20:17:14 UTC
+```text
+💬 Programming Languages: 
+C++                      34 hrs 34 mins      █████████████████░░░░░░░░   69.14 % 
+Python                   4 hrs 47 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
+Other                    3 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
+Markdown                 2 hrs 48 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
+C                        1 hr 58 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
+
+🔥 Editors: 
+VS Code                  45 hrs 20 mins      ███████████████████████░░   90.68 % 
+Neovim                   4 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
+Postman                  27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+
+💻 Operating System: 
+Mac                      46 hrs 37 mins      ███████████████████████░░   93.22 % 
+Linux                    3 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
+```
+
+
+ Last Updated on 07/12/2023 01:11:43 UTC
 <!--END_SECTION:waka-->
 Note: I started tracking my activity with Waka on 20/11/2023 
 </td></tr>
