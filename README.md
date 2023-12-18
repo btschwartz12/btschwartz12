@@ -1,14 +1,3 @@
-
-
-
-
-<!-- <div align="center">
-
-   <h1><img src="dist/saul.gif" width="13%" height="auto" style="margin-left:5px; margin-bottom:-10px" />   </h1>
-</div>
--->
-
-
 Hey! My name is **Ben Schwartz**, an undergrad at the University of Michigan studying Computer Science.
 
 I'm also an SDE Intern at [Hyland](https://www.hyland.com/en) and a teaching assistant for a [cybersecurity course](https://eecs388.org). I plan to finish undergrad this winter and continue pursuing a masters in Computer Science, hoping to graduate in December 2024!
@@ -35,56 +24,6 @@ You may or may not regret it.
 ```bash
 $ ssh chuck@193.42.60.203 # password = 'jimmy'
 ```
-
-<h2>👺 What I've Been Up To</h2>
-
-<br>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=btschwartz12&theme=github-dark&border=61dafb" alt="btschwartz12" style="margin: 0 auto; display: block;" />
-
-
-<!-- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/btschwartz12/btschwartz12/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/btschwartz12/btschwartz12/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/btschwartz12/btschwartz12/output/github-contribution-grid-snake.svg">
-</picture> -->
-
-
-
-<table>
-    
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-102%20hrs%2021%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-529.9%20thousand%20lines%20of%20code-blue)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Other                    4 hrs 43 mins       █████████████████░░░░░░░░   69.89 % 
-Python                   1 hr 24 mins        █████░░░░░░░░░░░░░░░░░░░░   20.77 % 
-C++                      16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
-Text                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
-HTML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
-
-🔥 Editors: 
-Slack                    4 hrs 29 mins       █████████████████░░░░░░░░   66.50 % 
-VS Code                  1 hr 52 mins        ███████░░░░░░░░░░░░░░░░░░   27.85 % 
-Neovim                   18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
-Zoom                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
-
-💻 Operating System: 
-Mac                      6 hrs 45 mins       █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 17/12/2023 20:15:58 UTC
-<!--END_SECTION:waka-->
-Note: I started tracking my activity with Waka on 20/11/2023 
-</td></tr>
-</table>
 
 
 
@@ -167,6 +106,6 @@ Note: I started tracking my activity with Waka on 20/11/2023
 
 <!-- ![](./profile-3d-contrib/profile-green-animate.svg) -->
 
+<!-- 
 
-
-  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%"/>
+  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%"/> -->
