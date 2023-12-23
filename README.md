@@ -73,8 +73,8 @@ $ ssh chuck@193.42.60.203 # password = 'jimmy'
 <br/><br/><br/><br/><br/><br/>
 
 <div width="100%" >
-  <a href="https://github.com/btschwartz12/health-monitor" title="health-monitor"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=btschwartz12&repo=health-monitor&theme=great-gatsby&border_color=61dafb&border_radius=10"></a>
-  <a href="https://github.com/btschwartz12/WingmanGPT" title="WingmanGPT"><img  align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=btschwartz12&repo=WingmanGPT&theme=aura&border_color=61dafb&border_radius=10"></a>
+  <a href="https://github.com/btschwartz12/WingmanGPT" title="WingmanGPT"><img  height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=btschwartz12&repo=LetsEat&theme=aura&border_color=61dafb&border_radius=10"></a>
+  <a href="https://github.com/btschwartz12/health-monitor" title="health-monitor"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=btschwartz12&repo=health-monitor&theme=great-gatsby&border_color=61dafb&border_radius=10"></a>
 <div>
 <br/><br/>
 
