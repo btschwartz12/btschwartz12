@@ -1,0 +1,283 @@
+%-------------------------
+% Resume in Latex
+% Author : Arkadeep Das, Manas Daruka, Ayush Sharma, Abhinav Gupta
+% License : MIT
+%------------------------
+
+%---- Required Packages and Functions ----
+
+\documentclass[a4paper,11pt]{article}
+\usepackage{latexsym}
+\usepackage{xcolor}
+\usepackage{float}
+\usepackage{ragged2e}
+\usepackage[empty]{fullpage}
+\usepackage{wrapfig}
+\usepackage{lipsum}
+\usepackage{tabularx}
+\usepackage{titlesec}
+\usepackage{geometry}
+\usepackage{marvosym}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage{multicol}
+\usepackage{graphicx}
+\usepackage{xcolor}
+\usepackage{fontawesome}
+\usepackage{cfr-lm}
+\usepackage[T1]{fontenc}
+\setlength{\multicolsep}{0pt} 
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+\geometry{left=1.4cm, top=0.8cm, right=1.2cm, bottom=1cm}
+% Adjust margins
+%\addtolength{\oddsidemargin}{-0.5in}
+%\addtolength{\evensidemargin}{-0.5in}
+%\addtolength{\textwidth}{1in}
+\usepackage[most]{tcolorbox}
+\tcbset{
+	frame code={}
+	center title,
+	left=0pt,
+	right=0pt,
+	top=0pt,
+	bottom=0pt,
+	colback=gray!20,
+	colframe=white,
+	width=\dimexpr\textwidth\relax,
+	enlarge left by=-2mm,
+	boxsep=2pt,
+	arc=0pt,outer arc=0pt,
+}
+
+\urlstyle{same}
+
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-4pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-7pt}]
+
+%-------------------------
+% Custom commands
+\newcommand{\resumeItem}[2]{
+  \item{
+    \textbf{#1}{:\hspace{0.5mm}#2 \vspace{-0.5mm}}
+  }
+}
+
+
+\newcommand{\resumePOR}[3]{
+\vspace{0.5mm}\item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+        \textbf{#1},\hspace{0.3mm}#2 & \textit{\small{#3}} 
+    \end{tabular*}
+    \vspace{-2mm}
+}
+
+\newcommand{\resumeSubheading}[4]{
+\vspace{0.5mm}\item
+    \begin{tabular*}{0.98\textwidth}[t]{l@{\extracolsep{\fill}}r}
+        \textbf{#1} & \textit{\footnotesize{#4}} \\
+        \textit{\footnotesize{#3}} &  \footnotesize{#2}\\
+    \end{tabular*}
+    \vspace{-2.4mm}
+}
+
+\newcommand{\resumeProject}[2]{
+\vspace{0.5mm}\item
+    \begin{tabular*}{0.98\textwidth}[t]{l@{\extracolsep{\fill}}r}
+        \textbf{#1} & \footnotesize{#2} \\
+    \end{tabular*}
+    \vspace{-2.4mm}
+}
+
+\definecolor{heartColor}{HTML}{8f0c03}
+\definecolor{githubColor}{HTML}{04780b}
+\definecolor{websiteColor}{HTML}{8c0150}
+\definecolor{linkedinColor}{HTML}{046678}
+
+
+
+
+\newcommand{\resumeSubItem}[2]{\resumeItem{#1}{#2}\vspace{-4pt}}
+
+% \renewcommand{\labelitemii}{$\circ$}
+\renewcommand{\labelitemi}{$\vcenter{\hbox{\tiny$\bullet$}}$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=*,labelsep=0mm]}
+\newcommand{\resumeHeadingSkillStart}{\begin{itemize}[leftmargin=*,itemsep=1.7mm, rightmargin=2ex]}
+\newcommand{\resumeItemListStart}{\begin{justify}\begin{itemize}[leftmargin=3ex, rightmargin=2ex, noitemsep,labelsep=1.2mm,itemsep=0mm]\small}
+
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}\vspace{4mm}}
+\newcommand{\resumeHeadingSkillEnd}{\end{itemize}\vspace{-2mm}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\end{justify}\vspace{-5mm}}
+\newcommand{\cvsection}[1]{%
+\vspace{2mm}
+\begin{tcolorbox}
+    \textbf{\large #1}
+\end{tcolorbox}
+    \vspace{-4mm}
+}
+
+\newcolumntype{L}{>{\raggedright\arraybackslash}X}%
+\newcolumntype{R}{>{\raggedleft\arraybackslash}X}%
+\newcolumntype{C}{>{\centering\arraybackslash}X}%
+%---- End of Packages and Functions ------
+
+%-------------------------------------------
+%%%%%%  CV STARTS HERE  %%%%%%%%%%%
+%%%%%% DEFINE ELEMENTS HERE %%%%%%%
+\newcommand{\name}{Ben Schwartz} % Your Name
+\newcommand{\phone}{216-978-4243} % Your Phone Number
+\newcommand{\emaila}{scben@umich.edu} %Email 1
+\newcommand{\github}{btschwartz12} %Github
+\newcommand{\website}{https://btschwartz.com} %Website
+\newcommand{\linkedin}{https://www.linkedin.com/in/ben-schwartz-1b700b225} %linkedin
+
+
+
+
+\begin{document}
+\fontfamily{cmr}\selectfont
+%----------HEADING-----------------
+\parbox{2.35cm}{%
+  \raisebox{0.0cm}{ % Adjust the -0.5cm to your preference
+    \includegraphics[width=2cm,clip]{mich.png}
+  }
+}
+\parbox{\dimexpr\linewidth-2.8cm\relax}{
+\begin{tabularx}{\linewidth}{L r}
+  \textbf{\LARGE \name} & +1 \phone\\
+  {Graduate Student at the University of Michigan} & \href{mailto:\emaila}{\emaila} \\
+  {B.S. in Computer Science} & \href{\website}{\textcolor{websiteColor}{btschwartz.com}}\\
+  {} & \href{https://github.com/\github}{\textcolor{githubColor}{Github}} $|$ \href{\linkedin}{\textcolor{linkedinColor}{Linkedin}}\\
+  
+\end{tabularx}
+\vspace{-8mm}
+}
+
+
+
+%-----------EDUCATION-----------------
+\section{Education}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {University of Michigan College of Engineering}{Ann Arbor, MI}
+      {Master of Science in Computer Science}{January 2024 -- April 2025 (Expected)}
+    \resumeSubheading
+      {University of Michigan College of Literature, Science, and the Arts}{Ann Arbor, MI}
+      {Bachelor of Science in Computer Science ;  GPA: 3.83 / 4.00}{August 2020 -- December 2023}
+      \resumeItemListStart
+      \resumeSubItem{Relevant Coursework}
+            {Cybersecurity, Data Structures and Algorithms, Computer Architecture,\\Operating Systems,
+Computer Networks, Web Systems, Computer Science Theory, Machine Learning} 
+        \resumeItemListEnd
+  \resumeSubHeadingListEnd
+  \vspace{-5.5mm}
+
+
+% %-----------EXPERIENCE-----------------
+\section{Experience}
+  \resumeSubHeadingListStart
+
+    \resumeSubheading
+      {Hyland Software}{Westlake, OH}
+      {Software Developer Intern}{May 2023 -- Present}
+      \resumeItemListStart
+    \item {Designed and implemented an internal certificate manager, consisting of a 4kLOC .NET 6 web app with a REST API and several C\# microservices that communicate with Confluence, Jira, and Boomi processes}
+    \item {Extensive use of Bitbucket with Jira integrations as well as build pipelines with Jenkins and Octopus Deploy}
+    \item {Now working in an Agile environment with the IS Services Delivery team to contribute to several IS processes}
+    \resumeItemListEnd
+    
+    \resumeSubheading
+      {University of Michigan}{Ann Arbor, MI}
+      {Teaching Assistant \& Graduate Student Instructor}{August 2022 -- Present}
+        \resumeItemListStart
+          \item {Graduate Student Instructor for \textit{EECS 388: Introduction to Computer Security}, teaching fundamentals of security for a 350+ student elective; coordinating with the lead professor J. Alex Halderman and staff to design the projects, exams \& lectures; maintaining the course’s EC2 instances, Docker containers, VMs, \& GitHub repositories}
+            \item {Teaching Assistant for \textit{EECS 281: Data Structures and Algorithms}, taught concepts of data structures and algorithms for the 1000+ student core computer science class by holding lab sections \& office hours, wrote exam questions; maintained the course autograder, a 20kLOC code base consisting of Perl, Python, MySQL \& PHP}
+        \resumeItemListEnd
+
+    \resumeSubheading
+      {Aclara Technologies}{Solon, OH}
+      {Software Development Engineer Intern}{May 2022 -- May 2023}
+      \resumeItemListStart
+    \item {Developed multiple full-stack Python applications to support the shortcomings of the existing processes}
+    \item {Worked with principal systems engineers in St. Louis to redesign the meter delivery process to better integrate my applications, leveraging Tkinter, Pandas, Azure DevOps, Fusion, IEC Manuals, while following FCC regulations}
+    \resumeItemListEnd
+      
+  \resumeSubHeadingListEnd
+\vspace{-5.5mm}
+%-----------PROJECTS-----------------
+\section{Projects}
+\resumeSubHeadingListStart
+    
+    \resumeProject
+        {Network File Server} % Project Name
+        {C++20, Boost} 
+    \resumeItemListStart
+        \item {Implemented a multithreaded file server that can accept up to 30 concurrent TCP connections from clients}
+        \item {Used Boost's upgradable reader/writer locks to maximize concurrency to handle slow network and disk I/O}
+    \resumeItemListEnd
+
+     \resumeProject
+        {Instagram Clone} % Project Name
+        {React, Flask} % Event Dates
+    \resumeItemListStart
+        \item {Built an instagram clone where users could create accounts, post content, and engage with other users}
+        \item {Deployed and maintained with AWS Elastic Beanstalk}
+    \resumeItemListEnd
+
+    \resumeProject
+        {AI Chatroom} % Project Name
+        {Node.js, Vite} % Event Dates
+    \resumeItemListStart
+        \item {Developed a chat app that allows users to join rooms and share text and images with other users, including an AI bot pretending to be the persona Saul Goodman, leveraging the GPT-4 API and chatengine.io}
+        \item {Integrated the authentication system with my own REST API, allowing users to easily login to all of my apps}
+    \resumeItemListEnd
+
+    \resumeProject
+        {Restaurant Reservation App} % Project Name
+        {Swift, Xcode} % Event Dates
+    \resumeItemListStart
+        \item {Built an iOS app that allows users to explore a list or map of restaurants categorized by cuisine or location, and view the details of a restaurant, including a menu and reviews; users can also create and manage reservations}
+    \resumeItemListEnd
+  \resumeSubHeadingListEnd
+
+  \vspace{-7.0mm}
+  
+  \begin{center}
+  {\small
+    See \href{\website/portfolio/projects}{\textcolor{websiteColor}{portfolio}} for comprehensive list of all projects
+    
+  }
+  \end{center}
+  \vspace{-7.0mm}
+
+\section{Skills \& More}
+{\small % Start of smaller font size scope
+ \resumeHeadingSkillStart
+  \resumeSubItem{Languages} % Category
+    {Python, JavaScript, C/C++, C\#, Java, Swift, Bash, TypeScript, Rust, Go}
+  \resumeSubItem{Tools / Technologies} % Category
+    {Git, Docker, AWS, SSMS, Jenkins, Bitbucket, Postman, Windows, Unix, MacOS, Jira}
+ \resumeSubItem{Certifications} % Category
+    {Udemy 2023 Complete Web Development Bootcamp; Coursera Python Data Engineering} 
+
+  \resumeSubItem{Random}
+    {BW Programming Competition 4th Place, I \textcolor{websiteColor}{\faHeart} Ubuntu, Neovim $\geq$ VSCode} 
+
+ \hfill \textit{\footnotesize{December 2023}} \hspace{3mm}
+ \resumeHeadingSkillEnd
+} % End of smaller font size scope
+
+
+%-------------------------------------------
+\end{document}
