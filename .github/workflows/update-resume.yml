@@ -1,0 +1,19 @@
+name: Update Resume
+
+on:
+  push:
+    workflow_dispatch:
+    branches:
+      - master
+
+jobs:
+  update_resume:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Code
+      uses: actions/checkout@v2
+
+    - name: Run Curl Command
+      run: |
+        curl --location --request POST 'https://btschwartz.com/api/v1/resume?key=${{ secrets.RESUME_API_KEY }}'
