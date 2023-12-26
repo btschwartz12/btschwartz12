@@ -93,16 +93,17 @@
 
 \newcommand{\resumeProject}[2]{
 \vspace{0.5mm}\item
-    \begin{tabular*}{0.98\textwidth}[t]{l@{\extracolsep{\fill}}r}
-        \textbf{#1} & \footnotesize{#2} \\
-    \end{tabular*}
+    \textbf{#1} -- \textit{\small{#2}} % Project Name and Technologies
     \vspace{-2.4mm}
 }
+
 
 \definecolor{heartColor}{HTML}{8f0c03}
 \definecolor{githubColor}{HTML}{04780b}
 \definecolor{websiteColor}{HTML}{8c0150}
 \definecolor{linkedinColor}{HTML}{046678}
+
+
 
 
 
@@ -194,7 +195,7 @@ Computer Networks, Web Systems, Computer Science Theory, Machine Learning}
       \resumeItemListStart
     \item {Designed and implemented an internal certificate manager, consisting of a 4kLOC .NET 6 web app with a REST API and several C\# microservices that communicate with Confluence, Jira, and Boomi processes}
     \item {Extensive use of Bitbucket with Jira integrations as well as build pipelines with Jenkins and Octopus Deploy}
-    \item {Now working in an Agile environment with the IS Services Delivery team to contribute to several IS processes}
+    \item {Contributing to several IS processes in an Agile environment within the IS Services Delivery team}
     \resumeItemListEnd
     
     \resumeSubheading
@@ -210,7 +211,7 @@ Computer Networks, Web Systems, Computer Science Theory, Machine Learning}
       {Software Development Engineer Intern}{May 2022 -- May 2023}
       \resumeItemListStart
     \item {Developed multiple full-stack Python applications to support the shortcomings of the existing processes}
-    \item {Worked with principal systems engineers in St. Louis to redesign the meter delivery process to better integrate my applications, leveraging Tkinter, Pandas, Azure DevOps, Fusion, IEC Manuals, while following FCC regulations}
+    \item {Worked with principal systems engineers in St. Louis to redesign the meter delivery process to better integrate the applications, leveraging Tkinter, Pandas, Azure DevOps, Fusion, IEC Manuals, while following FCC regulations}
     \resumeItemListEnd
       
   \resumeSubHeadingListEnd
@@ -227,28 +228,37 @@ Computer Networks, Web Systems, Computer Science Theory, Machine Learning}
         \item {Used Boost's upgradable reader/writer locks to maximize concurrency to handle slow network and disk I/O}
     \resumeItemListEnd
 
-     \resumeProject
-        {Instagram Clone} % Project Name
-        {React, Flask} % Event Dates
-    \resumeItemListStart
-        \item {Built an instagram clone where users could create accounts, post content, and engage with other users}
-        \item {Deployed and maintained with AWS Elastic Beanstalk}
-    \resumeItemListEnd
+     
 
     \resumeProject
         {AI Chatroom} % Project Name
-        {Node.js, Vite} % Event Dates
+        {JavaScript, Node.js, Vite, \href{https://chat.btschwartz.com}{\textbf{\textcolor{websiteColor}{Live}}}} % Event Dates
     \resumeItemListStart
         \item {Developed a chat app that allows users to join rooms and share text and images with other users, including an AI bot pretending to be the persona Saul Goodman, leveraging the GPT-4 API and chatengine.io}
-        \item {Integrated the authentication system with my own REST API, allowing users to easily login to all of my apps}
+        \item {Integrated the authentication system with a personal REST API, allowing users to easily login to several apps}
     \resumeItemListEnd
-\resumeProject
-        {Video Streaming Proxy with a CDN} % Project Name
-        {C, Python, Mininet} % Event Dates
+    \resumeProject
+        {Custom REST API} % Project Name
+        {Python, TypeScript, Flask, MySQL, \href{\website/api/v1/}{\textbf{\textcolor{websiteColor}{Live}}}}
         \resumeItemListStart
-        \item {Developed an HTTP proxy for a video server, enabling adaptive bitrate streaming for up to 8 simultaneous clients. The system dynamically adjusts the streaming quality based on real-time throughput calculation of the client}
+        \item {Created a large Flask app that consists of a Swagger UI, JWT authentication scheme and a MySQL database}
+        \item {Serves many endpoints for portfolio data, a web shop, login page, GPT-4 chat apps, media storage apps, and more}
+    \resumeItemListEnd
+    \resumeProject
+        {Video Streaming Proxy with a CDN} % Project Name
+        {C, Python}
+        \resumeItemListStart
+        \item {Developed an HTTP proxy for a video server, enabling adaptive bitrate streaming for up to 8 simultaneous clients; the system dynamically adjusts the streaming quality based on real-time throughput calculation of the client}
         \item {Designed a DNS system with a geographically-aware load balancer to direct clients to the optimal video server}
     \resumeItemListEnd
+
+    \resumeProject
+        {Instagram Clone} % Project Name
+        {JavaScript, Python, React, Flask, AWS, \href{\website/insta}{\textbf{\textcolor{websiteColor}{Live}}}} % Event Dates
+    \resumeItemListStart
+        \item {Built an app where users could post content, and engage with other users; deployed with AWS Elastic Beanstalk}
+    \resumeItemListEnd
+    
     \resumeProject
         {Restaurant Reservation App} % Project Name
         {Swift, Xcode} % Event Dates
@@ -257,14 +267,14 @@ Computer Networks, Web Systems, Computer Science Theory, Machine Learning}
     \resumeItemListEnd
   \resumeSubHeadingListEnd
 
-  \vspace{-5.0mm}
+  \vspace{-4.0mm}
   
   \begin{center}
   {\small
-    See \href{\website/portfolio/projects}{\textcolor{websiteColor}{portfolio}} for comprehensive list of all projects
-    
+    \textbf{See \href{\website/portfolio/projects}{\textcolor{websiteColor}{portfolio}} for comprehensive list of all projects}
   }
   \end{center}
+
   \vspace{-7.0mm}
 
 \section{Skills \& More}
