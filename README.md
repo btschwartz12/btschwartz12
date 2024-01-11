@@ -1,6 +1,6 @@
-Hey! My name is **Ben Schwartz**, an undergrad at the University of Michigan studying Computer Science.
+Hey! My name is **Ben Schwartz**, a graduate student at the University of Michigan studying Computer Science.
 
-I'm also an SDE Intern at [Hyland](https://www.hyland.com/en) and a teaching assistant for a [cybersecurity course](https://eecs388.org). I plan to finish undergrad this winter and continue pursuing a masters in Computer Science, hoping to graduate in December 2024!
+I'm also an SDE Intern at [Hyland](https://www.hyland.com/en) and a teaching assistant for a [cybersecurity course](https://eecs388.org). I plan to graduate in April 2025! 
 
 
 
