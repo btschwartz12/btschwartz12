@@ -58,16 +58,16 @@ You may or may not regret it.
 <div>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-  <a href="https://github.com/btschwartz12/bliss-portfolio" title="bliss-portfolio" style="min-width: 48%; margin-bottom: 10px;">
+  <a href="https://github.com/btschwartz12/bliss-portfolio" title="bliss-portfolio" style="max-width: 48%; margin-bottom: 10px;">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=btschwartz12&repo=bliss-portfolio&theme=neon&border_color=61dafb&border_radius=10" style="width: 100%; height: auto;">
   </a>
-  <a href="https://github.com/btschwartz12/chat-with-saul" title="chat-with-saul" style="min-width: 48%; margin-bottom: 10px;">
+  <a href="https://github.com/btschwartz12/chat-with-saul" title="chat-with-saul" style="max-width: 48%; margin-bottom: 10px;">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=btschwartz12&repo=chat-with-saul&theme=highcontrast&border_color=61dafb&border_radius=10" style="width: 100%; height: auto;">
   </a>
-  <a href="https://github.com/btschwartz12/WingmanGPT" title="WingmanGPT" style="min-width: 48%; margin-bottom: 10px;">
+  <a href="https://github.com/btschwartz12/WingmanGPT" title="WingmanGPT" style="max-width: 48%; margin-bottom: 10px;">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=btschwartz12&repo=WingmanGPT&theme=aura&border_color=61dafb&border_radius=10" style="width: 100%; height: auto;">
   </a>
-  <a href="https://github.com/btschwartz12/health-monitor" title="health-monitor" style="min-width: 48%; margin-bottom: 10px;">
+  <a href="https://github.com/btschwartz12/health-monitor" title="health-monitor" style="max-width: 48%; margin-bottom: 10px;">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=btschwartz12&repo=health-monitor&theme=great-gatsby&border_color=61dafb&border_radius=10" style="width: 100%; height: auto;">
   </a>
 </div>
