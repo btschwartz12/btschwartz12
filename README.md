@@ -2,6 +2,8 @@ Hey! My name is **Ben Schwartz**, a graduate student at the University of Michig
 
 I'm also an SDE Intern at [Hyland](https://www.hyland.com/en) and a teaching assistant for a [cybersecurity course](https://eecs388.org). I plan to graduate in April 2025! 
 
+Check out my [portfolio](https://btschwartz.com/portfolio)! You may or may not regret it.
+
 
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=btschwartz12.btschwartz12)
@@ -9,14 +11,4 @@ I'm also an SDE Intern at [Hyland](https://www.hyland.com/en) and a teaching ass
 [![Portfolio](https://img.shields.io/badge/Portfolio-purple?style=flat)](https://btschwartz.com/portfolio)
 [![Resume](https://img.shields.io/badge/Resume-gold?style=flat)](https://btschwartz.com/resume.pdf)
 
-<img src="dist/saul.gif" width="5%" height="auto"  />
-
-
-
-
-<h2>😐 Check Out My <a href="https://btschwartz.com/portfolio">Portfolio</a></h2>
-
-
-
-You may or may not regret it.
-
+<img src="dist/saul.gif" width="10%" height="auto"  />
