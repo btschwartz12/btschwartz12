@@ -57,18 +57,22 @@ You may or may not regret it.
 
 <div>
 
-<div width="100%" >
-  <a align="left" href="https://github.com/btschwartz12/bliss-portfolio" title="bliss-portfolio"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=btschwartz12&repo=bliss-portfolio&theme=neon&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/btschwartz12/chat-with-saul" title="chat-with-saul"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=btschwartz12&repo=chat-with-saul&theme=highcontrast&border_color=61dafb&border_radius=10"></a>
-<div>
-<br/><br/><br/><br/><br/><br/>
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+  <a href="https://github.com/btschwartz12/bliss-portfolio" title="bliss-portfolio" style="min-width: 48%; margin-bottom: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=btschwartz12&repo=bliss-portfolio&theme=neon&border_color=61dafb&border_radius=10" style="width: 100%; height: auto;">
+  </a>
+  <a href="https://github.com/btschwartz12/chat-with-saul" title="chat-with-saul" style="min-width: 48%; margin-bottom: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=btschwartz12&repo=chat-with-saul&theme=highcontrast&border_color=61dafb&border_radius=10" style="width: 100%; height: auto;">
+  </a>
+  <a href="https://github.com/btschwartz12/WingmanGPT" title="WingmanGPT" style="min-width: 48%; margin-bottom: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=btschwartz12&repo=WingmanGPT&theme=aura&border_color=61dafb&border_radius=10" style="width: 100%; height: auto;">
+  </a>
+  <a href="https://github.com/btschwartz12/health-monitor" title="health-monitor" style="min-width: 48%; margin-bottom: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=btschwartz12&repo=health-monitor&theme=great-gatsby&border_color=61dafb&border_radius=10" style="width: 100%; height: auto;">
+  </a>
+</div>
 
-<div width="100%" >
-  <a href="https://github.com/btschwartz12/WingmanGPT" title="WingmanGPT"><img  height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=btschwartz12&repo=WingmanGPT&theme=aura&border_color=61dafb&border_radius=10"></a>
-  <a href="https://github.com/btschwartz12/health-monitor" title="health-monitor"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=btschwartz12&repo=health-monitor&theme=great-gatsby&border_color=61dafb&border_radius=10"></a>
-<div>
 <br/><br/>
-
 
 
 and more... check out my [repos](https://github.com/btschwartz12?tab=repositories)!
