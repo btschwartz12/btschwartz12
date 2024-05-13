@@ -1,6 +1,6 @@
 Hey! My name is **Ben Schwartz**, a graduate student at the University of Michigan studying Computer Science.
 
-I'm also an SDE Intern at [Hyland](https://www.hyland.com/en) and a teaching assistant for a [cybersecurity course](https://eecs388.org). I plan to graduate in April 2025! 
+I'm also an SDE Intern at [Censys](https://censys.com) and a teaching assistant for a [cybersecurity course](https://eecs388.org). I plan to graduate in April 2025! 
 
 Check out my [portfolio](https://btschwartz.com/portfolio)! You may or may not regret it.
 
