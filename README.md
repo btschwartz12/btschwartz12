@@ -5,3 +5,10 @@ yo
 <img src="dist/saul.gif" width="15%" height="auto"  />
 
 [CLICK HERE CLICK HERE CLICK HERE](https://btschwartz.com)
+
+snake
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/btschwartz12/btschwartz12/output/github-contribution-grid-snake-dark.svg)
+
+</div>
